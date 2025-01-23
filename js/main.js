@@ -7,7 +7,7 @@ const productos = [
             nombre:"Res",
             id: "res"
         },
-        precio: 175
+        precio: 165
     },
     {
         id: "2",
@@ -17,7 +17,7 @@ const productos = [
             nombre:"Res",
             id: "res"
         },
-        precio: 190
+        precio: 185
     },
     {
         id: "3",
@@ -27,7 +27,7 @@ const productos = [
             nombre:"Res",
             id: "res"
         },
-        precio: 35
+        precio: 30
     },
     {
         id: "4",
@@ -47,18 +47,8 @@ const productos = [
             nombre:"Cerdo",
             id: "cerdo"
         },
-        precio: 50
+        precio: 45
     },
-    {
-        id: "6",
-        titulo: "Costilla sin hueso 2lb",
-        imagen: "productos/lomo.jpg",
-        categoria: {
-            nombre:"Cerdo",
-            id: "cerdo"
-        },
-        precio: 50
-    }
     
 ];
 
